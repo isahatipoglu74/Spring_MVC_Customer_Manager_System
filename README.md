@@ -1,5 +1,4 @@
 # Product_Manager_System
-
 Bu uygulamada Veritabanımızdaki ürünlerin stok yönetimine ait işlemleri yönetilebilmektedir.
 Ürünlerin listelenmesi, yeni bir ürün stoğu girme veya varolan  bir ürünün aratılarak stok ve detaylarını görme gibi işlemler yapılabilmektedir.
 
