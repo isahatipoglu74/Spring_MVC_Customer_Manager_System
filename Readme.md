@@ -8,6 +8,7 @@ Yine müşterilerin düzenli bir sırada gelmesi ve her sayfada belli bir sayıd
 Son olarak logout yapılarak müşterinin tekrar login ekranına geçişi ve session'ının sonlanması sağlanmıştır.
 </p>
 
+
 # Yazılım Sürümleri:
 - Java 8
 - Spring 2.17.3
