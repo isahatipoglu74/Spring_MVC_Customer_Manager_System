@@ -33,22 +33,18 @@ Bu uygulama genel olarak müşteri yönetim iş aksiyonları için yazılmışt�
 # Project Display Image
 <p>
 
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/1.png" width="300" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/2.png" width="350" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/3.png" width="350" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/4.png" width="350" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/5.png" width="350" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/1.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/2.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/3.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/4.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/5.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/6.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/7.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/8.png" width="300" height="250" style="max-width:100%;"></a>
+
 </p>
 
 
-# Product_Manager_System
-Bu uygulamada Veritabanımızdaki ürünlerin stok yönetimine ait işlemleri yönetilebilmektedir.
-Ürünlerin listelenmesi, yeni bir ürün stoğu girme veya varolan  bir ürünün aratılarak stok ve detaylarını görme gibi işlemler yapılabilmektedir.
 
-![image](https://user-images.githubusercontent.com/113295965/236703748-84e45faa-06a5-4a6f-9496-e831c1c23fe2.png)
-
-![image](https://user-images.githubusercontent.com/113295965/236703756-a709d3ce-2a8e-45da-a2b3-9b6b99005aac.png)
-
-![image](https://user-images.githubusercontent.com/113295965/236703777-77d54da3-f6cb-4d99-ae80-3d567dc80632.png)
 
 
