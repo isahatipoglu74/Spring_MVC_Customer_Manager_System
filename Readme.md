@@ -41,7 +41,7 @@ Bu uygulama genel olarak müşteri yönetim iş aksiyonları için yazılmışt�
 <img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/6.png" width="300" height="250" style="max-width:100%;"></a>
 <img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/7.png" width="300" height="250" style="max-width:100%;"></a>
 <img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/8.png" width="300" height="250" style="max-width:100%;"></a>
-
+<img src="https://github.com/isahatipoglu74/Product_Manager_System/blob/main/Customer_Manager_Img/9.png" width="300" height="250" style="max-width:100%;"></a>
 </p>
 
 
