@@ -1,4 +1,4 @@
-# Spring Mvc Product Manager System
+# Spring Mvc Customer Manager System
 <p> 
 Bu yapıda Java Spring MVC ve JDBC uygulamaları kullanılarak kullanıcının  login olması ,
 sonrasında Dashboard ekranına ulaşması sağlanmıştır.
